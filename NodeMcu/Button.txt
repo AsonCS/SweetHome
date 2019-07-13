@@ -1,0 +1,128 @@
+
+Enter
+Código HEX: E0E016E9
+Código DEC: 3772782313
+
+Menu
+Código HEX: E0E058A7
+Código DEC: 3772799143
+
+Tools
+Código HEX: E0E0D22D
+Código DEC: 3772830253
+
+Return --
+Código HEX: E0E01AE5
+Código DEC: 3772783333
+
+Exit
+Código HEX: E0E0B44B
+Código DEC: 3772822603
+
+SmartHub -
+Código HEX: E0E09E61
+Código DEC: 3772816993
+
+Volume up
+Código HEX: E0E0E01F
+Código DEC: 3772833823
+
+Volume down
+Código HEX: E0E0D02F
+Código DEC: 3772829743
+
+Channel up
+Código HEX: E0E048B7
+Código DEC: 3772795063
+
+Channel down
+Código HEX: E0E008F7
+Código DEC: 3772778743
+
+up -
+Código HEX: E0E006F9
+Código DEC: 3772778233
+
+down
+Código HEX: E0E08679
+Código DEC: 3772810873
+
+left
+Código HEX: E0E0A659
+Código DEC: 3772819033
+
+right
+Código HEX: E0E046B9
+Código DEC: 3772794553
+
+1 -
+Código HEX: E0E020DF
+Código DEC: 3772784863
+
+2 -
+Código HEX: E0E0A05F
+Código DEC: 3772817503
+
+3
+Código HEX: E0E0609F
+Código DEC: 3772801183
+
+4 -
+Código HEX: E0E010EF
+Código DEC: 3772780783
+
+5 -
+Código HEX: E0E0906F
+Código DEC: 3772813423
+
+6 -
+Código HEX: E0E050AF
+Código DEC: 3772797103
+
+7 -
+Código HEX: E0E030CF
+Código DEC: 3772788943
+
+8 -
+Código HEX: E0E0B04F
+Código DEC: 3772821583
+
+9 -
+Código HEX: E0E0708F
+Código DEC: 3772805263
+
+0 -
+Código HEX: E0E08877
+Código DEC: 3772811383
+
+Power -
+Código HEX: E0E040BF
+Código DEC: 3772793023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
